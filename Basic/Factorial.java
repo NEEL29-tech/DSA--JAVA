@@ -19,5 +19,6 @@ public class Factorial {
             ans = ans*i;
         }
         System.out.println("Answer of Factorial :"+ans);
+        sc.close();
     }
 }
